@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/vlc", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/gaskamin-ridera-65-kw-mit-panoramaglas-und-lava-deko-steinen-vlc-8460594-1.jpg":"\u002Fassets\u002Fimages\u002Fgaskamin-ridera-65-kw-mit-panoramaglas-und-lava-deko-steinen-vlc-8460594-1.webp"}}],fetch:{},mutations:void 0});
