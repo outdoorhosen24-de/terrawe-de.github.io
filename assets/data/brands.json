@@ -1,17 +1,38 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "floraworld",
+        "name": "Floraworld",
+        "slug": "floraworld",
+        "productCategory": "Floraworld",
+        "localThumb": "/assets/images/hersteller/floraworld.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "vlc",
+        "name": "VLC",
+        "slug": "vlc",
+        "productCategory": "VLC",
+        "localThumb": "/assets/images/hersteller/vlc.webp"
+    },
+    {
+        "key": "enders",
+        "name": "Enders",
+        "slug": "enders",
+        "productCategory": "Enders",
+        "localThumb": "/assets/images/hersteller/enders.webp"
+    },
+    {
+        "key": "suntec",
+        "name": "Suntec",
+        "slug": "suntec",
+        "productCategory": "Suntec",
+        "localThumb": "/assets/images/hersteller/suntec.webp"
+    },
+    {
+        "key": "gutta",
+        "name": "Gutta",
+        "slug": "gutta",
+        "productCategory": "Gutta",
+        "localThumb": "/assets/images/hersteller/gutta.webp"
     },
     {
         "key": "sonstige",
@@ -21,66 +42,66 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "westmann",
+        "name": "Westmann",
+        "slug": "westmann",
+        "productCategory": "Westmann",
+        "localThumb": "/assets/images/hersteller/westmann.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "skan holz",
+        "name": "Skan Holz",
+        "slug": "skan-holz",
+        "productCategory": "Skan Holz",
+        "localThumb": "/assets/images/hersteller/skan-holz.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "weka",
+        "name": "Weka",
+        "slug": "weka",
+        "productCategory": "Weka",
+        "localThumb": "/assets/images/hersteller/weka.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "buschbeck",
+        "name": "Buschbeck",
+        "slug": "buschbeck",
+        "productCategory": "Buschbeck",
+        "localThumb": "/assets/images/hersteller/buschbeck.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "canopia by palram",
+        "name": "CANOPIA by PALRAM",
+        "slug": "canopia-by-palram",
+        "productCategory": "CANOPIA by PALRAM",
+        "localThumb": "/assets/images/hersteller/canopia-by-palram.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "gardendreams",
+        "name": "Gardendreams",
+        "slug": "gardendreams",
+        "productCategory": "Gardendreams",
+        "localThumb": "/assets/images/hersteller/gardendreams.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "palram - canopia",
+        "name": "Palram - Canopia",
+        "slug": "palram-canopia",
+        "productCategory": "Palram - Canopia",
+        "localThumb": "/assets/images/hersteller/palram-canopia.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "palram",
+        "name": "Palram",
+        "slug": "palram",
+        "productCategory": "Palram",
+        "localThumb": "/assets/images/hersteller/palram.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "sojag",
+        "name": "Sojag",
+        "slug": "sojag",
+        "productCategory": "Sojag",
+        "localThumb": "/assets/images/hersteller/sojag.webp"
     }
 ]
