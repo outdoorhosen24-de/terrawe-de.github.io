@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/sojag", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/sojag-terrassenueberdachung-st-barthelemy-812-b-x-t-364-cm-x-248-cm-anthrazit-sojag-8346132-1.jpg":"\u002Fassets\u002Fimages\u002Fsojag-terrassenueberdachung-st-barthelemy-812-b-x-t-364-cm-x-248-cm-anthrazit-sojag-8346132-1.webp"}}],fetch:{},mutations:void 0});
