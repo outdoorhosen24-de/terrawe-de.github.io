@@ -51,12 +51,15 @@
             "title": "Terrassen- & Wegeshop: Alles für Ihren perfekten Außenbereich!",
             "metaDescription": "Terrassen & Wege - alles für Ihren perfekten Garten! Terrassen, Wege und vieles mehr finden Sie bei uns.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Terrassen & Wege: Gestalten und Pflegen",
-                    "text": "Terrassen und Wege sind ein wesentlicher Bestandteil jedes Gartens. Sie verbinden die verschiedenen Bereiche des Gartens miteinander und sorgen dafür, dass Sie sich frei bewegen können. Die Gestaltung Ihrer Terrasse und Ihrer Wege sollte sorgfältig überlegt werden, damit sie zu Ihrem Gesamtstil passen.\n\nTerrassen können aus verschiedenen Materialien wie Stein, Holz oder Beton hergestellt werden. Jedes Material hat seine eigenen Vor- und Nachteile. Stein ist zum Beispiel sehr langlebig, aber auch sehr teuer. Holz ist eine beliebte Wahl für Terrassen, da es natürlich aussieht und relativ einfach zu verarbeiten ist. Beton ist ein weiteres beliebtes Material für Terrassen, da es relativ preiswert ist und eine Vielzahl von Designs möglich ist.\n\nWege können aus denselben Materialien wie Terrassen hergestellt werden, aber auch aus anderen wie Kies oder Rasen. Wie bei Terrassen sollte auch bei Wegen sorgfältig überlegt werden, welches Material am besten zu Ihrem Gesamtstil passt.\n\nDie Gestaltung Ihrer Terrasse und Ihrer Wege ist eine wichtige Entscheidung, die Sie sorgfältig treffen sollten. Nehmen Sie sich Zeit, um verschiedene Materialien und Designs zu erforschen, um sicherzustellen, dass Sie das finden, was am besten zu Ihnen und Ihrem Garten passt."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Terrassen & Wege: Gestalten und Pflegen",
+                        "text": "Terrassen und Wege sind ein wesentlicher Bestandteil jedes Gartens. Sie verbinden die verschiedenen Bereiche des Gartens miteinander und sorgen dafür, dass Sie sich frei bewegen können. Die Gestaltung Ihrer Terrasse und Ihrer Wege sollte sorgfältig überlegt werden, damit sie zu Ihrem Gesamtstil passen.\n\nTerrassen können aus verschiedenen Materialien wie Stein, Holz oder Beton hergestellt werden. Jedes Material hat seine eigenen Vor- und Nachteile. Stein ist zum Beispiel sehr langlebig, aber auch sehr teuer. Holz ist eine beliebte Wahl für Terrassen, da es natürlich aussieht und relativ einfach zu verarbeiten ist. Beton ist ein weiteres beliebtes Material für Terrassen, da es relativ preiswert ist und eine Vielzahl von Designs möglich ist.\n\nWege können aus denselben Materialien wie Terrassen hergestellt werden, aber auch aus anderen wie Kies oder Rasen. Wie bei Terrassen sollte auch bei Wegen sorgfältig überlegt werden, welches Material am besten zu Ihrem Gesamtstil passt.\n\nDie Gestaltung Ihrer Terrasse und Ihrer Wege ist eine wichtige Entscheidung, die Sie sorgfältig treffen sollten. Nehmen Sie sich Zeit, um verschiedene Materialien und Designs zu erforschen, um sicherzustellen, dass Sie das finden, was am besten zu Ihnen und Ihrem Garten passt."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Terrasse & Wege Shop",
