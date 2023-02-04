@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "terrawe.de",
     "hostname": "https://www.terrawe.de/",
     "email": "terrawe.de@surrealnetworks.io",
     "organization": "terrawe.de",
     "logoText": "Terrawe.de",
-    "title": "Terrasse & Wege",
-    "subline": "Der Online Shop für Terrasse & Wege",
+    "title": "Terrassenüberdachung und Heizstrahler",
+    "subline": "Der Online Shop für deine Terrasse",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Terrasse & Wege",
-        "featureText": "Die Firma \"Terrasse & Wege\" ist ein Fachgeschäft für die Gestaltung von Terrassen und Wegen. Wir beraten Sie gerne bei der Planung und Ausführung Ihrer Projekte. Unser Sortiment umfasst alles, was Sie für die Gestaltung Ihrer Terrasse oder Ihres Weges benötigen.",
+        "featureText": "Herzlich willkommen in deiner Terrassenwelt auf terrawe.de. Ein Ort der Ruhe und der Erholung. Die Terrasse, der Ort, an dem wir uns alle gerne aufhalten. Allerdings kann uns ein kalter Wind oder Niederschlag dieses Erlebnis schnell vermiesen. Damit uns weder Kälte noch Regen unsere Momente schmälern, bieten wir dir ein Sortiment an Terrassenüberdachungen und auch Terrassenheizstrahler an. Rüste dich für die kalten Jahreszeiten zu Top-Preisen.",
         "index": {
-            "title": "Terrassen- & Wegeshop: Alles für Ihren perfekten Außenbereich!",
-            "metaDescription": "Terrassen & Wege - alles für Ihren perfekten Garten! Terrassen, Wege und vieles mehr finden Sie bei uns.",
+            "title": "Zubehör für deine Terrasse | terrawe.de",
+            "metaDescription": "Werte deine Terrasse jetzt auf! Schütze dich mit unseren Terrassenüberdachungen und Terrassenheizstrahler vor Wind & Wetter | Terrawe.de - schnell und einfach.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Terrasse & Wege Shop",
-            "metaDescription": "Terrasse & Wege Shop - Alles für Ihren perfekten Garten! Terrassen, Wege und vieles mehr finden Sie bei uns im Shop.",
+            "title": "Terrassenüberdachungen und Heizstrahler | Online -Shop",
+            "metaDescription": "In unserem Online Shop bieten wir dir großen Schutz zum kleinen Preis. Mit Terrassenüberdachungen und Terrassenheizstrahler gegen Wind und Wetter.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Terrasse & Wege manufacturer",
-            "metaDescription": "Terrasse & Wege - Finden Sie hier die passende Ausstattung für Ihren Garten. Vom Bodenbelag über die Beleuchtung bis hin zur Bepflanzung.",
+            "title": "Terrassenüberdachungen und Heizstrahler | Hersteller",
+            "metaDescription": "Terrassenzubehör zum günstigen Preis von Marken wie Floraworld, VLC, Enders, Suntec, Gutta, Westmann, Skan Holz, Weka, Buschbeck, Gardendreams oder Palram.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Terrasse & Wege: $PRODUKT",
-        "defaultMetaDescription": "Terrassen und Wege sind die perfekte Ergänzung zu Ihrem $PRODUKT. $HERSTELLER bietet eine große Auswahl an verschiedenen $KATEGORIE an, die Ihren Bedürfnissen entsprechen.",
+        "defaultTitle": "$PRODUKT | terrawe.de",
+        "defaultMetaDescription": "Mit unserer Auswahl an Produkten wie $PRODUKT von unserem Top Hersteller $HERSTELLER können wir dir das beste aus dem Bereich $KATEGORIE bieten.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Terrasse & Wege: $KATEGORIE für schöne Außenanlagen",
-        "defaultMetaDescription": "Terrasse & Wege: $KATEGORIE für Ihren Garten - Jetzt bei OBI entdecken!",
+        "defaultTitle": "Günstige $KATEGORIE für deine Terrasse",
+        "defaultMetaDescription": "Schutz vor Wind und Wetter: Wir bieten dir mit unserer Auswahl an $KATEGORIE von unseren Top Marken einen Schutz, der sich sehen lassen kann.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "Terrassen und Wege von $HERSTELLER – die perfekte Lösung für Ihr Zuhause. Wir bieten Ihnen hochwertige Produkte und Dienstleistungen rund um das Thema Terrassen und Wege.",
+        "defaultTitle": "Terrassenzubehör | $HERSTELLER",
+        "defaultMetaDescription": "Die besten Terrassenüberdachungen und Terrassenheizstrahler von $HERSTELLER in deinem günstigen Online-Shop auf terrawe.de.",
         "defaultRobots": "index, follow",
         "brands": [
             {
