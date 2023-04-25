@@ -1,172 +1,175 @@
 {
-    "configIsReady": true,
-    "domain": "terrawe.de",
-    "hostname": "https://www.terrawe.de/",
-    "email": "terrawe.de@surrealnetworks.io",
-    "organization": "terrawe.de",
-    "logoText": "Terrawe.de",
-    "title": "Terrassenüberdachung und Heizstrahler",
-    "subline": "Der Online Shop für deine Terrasse",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "2108678",
-        "8474652",
-        "9667130",
-        "8430373",
-        "6020721",
-        "8432130"
-    ],
-    "winnerProducts": [
-        "6033781",
-        "9663477",
-        "9634247"
-    ],
-    "featuredCategories": [
-        "Terrassenüberdachungen",
-        "Terrassenüberdachungen",
-        "Terrassenüberdachungen",
-        "Terrassenüberdachungen",
-        "Terrassenüberdachungen",
-        "Terrassenheizstrahler"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Terrasse & Wege",
-        "featureText": "Herzlich willkommen in deiner Terrassenwelt auf terrawe.de. Ein Ort der Ruhe und der Erholung. Die Terrasse, der Ort, an dem wir uns alle gerne aufhalten. Allerdings kann uns ein kalter Wind oder Niederschlag dieses Erlebnis schnell vermiesen. Damit uns weder Kälte noch Regen unsere Momente schmälern, bieten wir dir ein Sortiment an Terrassenüberdachungen und auch Terrassenheizstrahler an. Rüste dich für die kalten Jahreszeiten zu Top-Preisen.",
-        "index": {
-            "title": "Zubehör für deine Terrasse | terrawe.de",
-            "metaDescription": "Werte deine Terrasse jetzt auf! Schütze dich mit unseren Terrassenüberdachungen und Terrassenheizstrahler vor Wind & Wetter | Terrawe.de - schnell und einfach.",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei TerraWE - Ihrem Experten für Terrassen & Wege",
-                        "text": "Herzlich willkommen auf TerraWE, Ihrem Online-Shop für alles rund um die Terrasse und den Weg. Wir bieten Ihnen eine breite Auswahl an Terrassenüberdachungen und Terrassenheizstrahlern, damit Sie Ihre Outdoor-Oase ganzjährig nutzen können. Unsere Produkte zeichnen sich durch hochwertige Materialien, moderne Technik und ein hervorragendes Preis-Leistungs-Verhältnis aus. Stöbern Sie durch unser Sortiment und entdecken Sie, wie Sie Ihre Terrasse zu einem zusätzlichen Wohnraum machen können. Bei Fragen steht Ihnen unser freundlicher Kundenservice jederzeit zur Verfügung."
-                    },
-                    {
-                        "title": "Terrassenüberdachungen",
-                        "text": "Entdecken Sie eine große Auswahl an <a href=\"/kategorie/terrassenueberdachungen/\" title=\"Terrassenüberdachungen\">Terrassenüberdachungen</a> bei TerraWe. Wir bieten Terrassenüberdachungen in verschiedenen Größen und Materialien, damit Sie das ganze Jahr über unter Ihrer Terrassenüberdachung entspannen können. Ob Sie eine Terrassenüberdachung aus Aluminium, Holz oder Edelstahl wünschen, wir haben für jeden Bedarf das passende Produkt. Schützen Sie sich vor Regen und Sonne, während Sie im Freien genießen."
-                    },
-                    {
-                        "title": "Terrassenheizstrahler",
-                        "text": "Erweitern Sie die Nutzungsdauer Ihrer Terrassen mit <a href=\"/kategorie/terrassenheizstrahler/\" title=\"Terrassenheizstrahler\">Terrassenheizstrahler</a>n von TerraWe. Unsere Terrassenheizstrahler sorgen für wohlige Wärme an kühlen Abenden und lassen Sie auch im Herbst und Frühjahr lange draußen sitzen. Wählen Sie aus einer Vielzahl an Designs und Leistungsstärken, um den perfekten Terrassenheizstrahler für Ihre Bedürfnisse zu finden."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Terrassenüberdachungen und Heizstrahler | Online -Shop",
-            "metaDescription": "In unserem Online Shop bieten wir dir großen Schutz zum kleinen Preis. Mit Terrassenüberdachungen und Terrassenheizstrahler gegen Wind und Wetter.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Terrassenüberdachungen und Heizstrahler | Hersteller",
-            "metaDescription": "Terrassenzubehör zum günstigen Preis von Marken wie Floraworld, VLC, Enders, Suntec, Gutta, Westmann, Skan Holz, Weka, Buschbeck, Gardendreams oder Palram.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT | terrawe.de",
-        "defaultMetaDescription": "Mit unserer Auswahl an Produkten wie $PRODUKT von unserem Top Hersteller $HERSTELLER können wir dir das beste aus dem Bereich $KATEGORIE bieten.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "terrawe.de",
+  "hostname": "https://www.terrawe.de/",
+  "email": "terrawe.de@surrealnetworks.io",
+  "organization": "terrawe.de",
+  "logoText": "Terrawe.de",
+  "title": "Terrassen\u00fcberdachung und Heizstrahler",
+  "subline": "Der Online Shop f\u00fcr deine Terrasse",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "2108678",
+    "8474652",
+    "9667130",
+    "8430373",
+    "6020721",
+    "8432130"
+  ],
+  "winnerProducts": [
+    "6033781",
+    "9663477",
+    "9634247"
+  ],
+  "featuredCategories": [
+    "Terrassen\u00fcberdachungen",
+    "Terrassen\u00fcberdachungen",
+    "Terrassen\u00fcberdachungen",
+    "Terrassen\u00fcberdachungen",
+    "Terrassen\u00fcberdachungen",
+    "Terrassenheizstrahler"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Terrasse & Wege",
+    "featureText": "Herzlich willkommen in deiner Terrassenwelt auf terrawe.de. Ein Ort der Ruhe und der Erholung. Die Terrasse, der Ort, an dem wir uns alle gerne aufhalten. Allerdings kann uns ein kalter Wind oder Niederschlag dieses Erlebnis schnell vermiesen. Damit uns weder K\u00e4lte noch Regen unsere Momente schm\u00e4lern, bieten wir dir ein Sortiment an Terrassen\u00fcberdachungen und auch Terrassenheizstrahler an. R\u00fcste dich f\u00fcr die kalten Jahreszeiten zu Top-Preisen.",
+    "index": {
+      "title": "Zubeh\u00f6r f\u00fcr deine Terrasse | terrawe.de",
+      "metaDescription": "Werte deine Terrasse jetzt auf! Sch\u00fctze dich mit unseren Terrassen\u00fcberdachungen und Terrassenheizstrahler vor Wind & Wetter | Terrawe.de - schnell und einfach.",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei TerraWE - Ihrem Experten f\u00fcr Terrassen & Wege",
+            "text": "Herzlich willkommen auf TerraWE, Ihrem Online-Shop f\u00fcr alles rund um die Terrasse und den Weg. Wir bieten Ihnen eine breite Auswahl an Terrassen\u00fcberdachungen und Terrassenheizstrahlern, damit Sie Ihre Outdoor-Oase ganzj\u00e4hrig nutzen k\u00f6nnen. Unsere Produkte zeichnen sich durch hochwertige Materialien, moderne Technik und ein hervorragendes Preis-Leistungs-Verh\u00e4ltnis aus. St\u00f6bern Sie durch unser Sortiment und entdecken Sie, wie Sie Ihre Terrasse zu einem zus\u00e4tzlichen Wohnraum machen k\u00f6nnen. Bei Fragen steht Ihnen unser freundlicher Kundenservice jederzeit zur Verf\u00fcgung."
+          },
+          {
+            "title": "Terrassen\u00fcberdachungen",
+            "text": "Entdecken Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/terrassenueberdachungen/\" title=\"Terrassen\u00fcberdachungen\">Terrassen\u00fcberdachungen</a> bei TerraWe. Wir bieten Terrassen\u00fcberdachungen in verschiedenen Gr\u00f6\u00dfen und Materialien, damit Sie das ganze Jahr \u00fcber unter Ihrer Terrassen\u00fcberdachung entspannen k\u00f6nnen. Ob Sie eine Terrassen\u00fcberdachung aus Aluminium, Holz oder Edelstahl w\u00fcnschen, wir haben f\u00fcr jeden Bedarf das passende Produkt. Sch\u00fctzen Sie sich vor Regen und Sonne, w\u00e4hrend Sie im Freien genie\u00dfen."
+          },
+          {
+            "title": "Terrassenheizstrahler",
+            "text": "Erweitern Sie die Nutzungsdauer Ihrer Terrassen mit <a href=\"/kategorie/terrassenheizstrahler/\" title=\"Terrassenheizstrahler\">Terrassenheizstrahler</a>n von TerraWe. Unsere Terrassenheizstrahler sorgen f\u00fcr wohlige W\u00e4rme an k\u00fchlen Abenden und lassen Sie auch im Herbst und Fr\u00fchjahr lange drau\u00dfen sitzen. W\u00e4hlen Sie aus einer Vielzahl an Designs und Leistungsst\u00e4rken, um den perfekten Terrassenheizstrahler f\u00fcr Ihre Bed\u00fcrfnisse zu finden."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "Günstige $KATEGORIE für deine Terrasse",
-        "defaultMetaDescription": "Schutz vor Wind und Wetter: Wir bieten dir mit unserer Auswahl an $KATEGORIE von unseren Top Marken einen Schutz, der sich sehen lassen kann.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Terrassen\u00fcberdachungen und Heizstrahler | Online -Shop",
+      "metaDescription": "In unserem Online Shop bieten wir dir gro\u00dfen Schutz zum kleinen Preis. Mit Terrassen\u00fcberdachungen und Terrassenheizstrahler gegen Wind und Wetter.",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "Terrassenzubehör | $HERSTELLER",
-        "defaultMetaDescription": "Die besten Terrassenüberdachungen und Terrassenheizstrahler von $HERSTELLER in deinem günstigen Online-Shop auf terrawe.de.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Terrasse & Wege",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Terrasse & Wege Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Terrasse & Wege Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Terrassen\u00fcberdachungen und Heizstrahler | Hersteller",
+      "metaDescription": "Terrassenzubeh\u00f6r zum g\u00fcnstigen Preis von Marken wie Floraworld, VLC, Enders, Suntec, Gutta, Westmann, Skan Holz, Weka, Buschbeck, Gardendreams oder Palram.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT | terrawe.de",
+    "defaultMetaDescription": "Mit unserer Auswahl an Produkten wie $PRODUKT von unserem Top Hersteller $HERSTELLER k\u00f6nnen wir dir das beste aus dem Bereich $KATEGORIE bieten.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "G\u00fcnstige $KATEGORIE f\u00fcr deine Terrasse",
+    "defaultMetaDescription": "Schutz vor Wind und Wetter: Wir bieten dir mit unserer Auswahl an $KATEGORIE von unseren Top Marken einen Schutz, der sich sehen lassen kann.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "Terrassenzubeh\u00f6r | $HERSTELLER",
+    "defaultMetaDescription": "Die besten Terrassen\u00fcberdachungen und Terrassenheizstrahler von $HERSTELLER in deinem g\u00fcnstigen Online-Shop auf terrawe.de.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Terrasse & Wege",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Terrasse & Wege Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Terrasse & Wege Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
