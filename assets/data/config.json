@@ -1,208 +1,215 @@
 {
-  "configIsReady": true,
-  "domain": "terrawe.de",
-  "hostname": "https://www.terrawe.de/",
-  "email": "terrawe.de@surrealnetworks.io",
-  "organization": "terrawe.de",
-  "logoText": "Terrawe.de",
-  "title": "Terrassenüberdachung und Heizstrahler",
-  "subline": "Der Online Shop für deine Terrasse",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "2108678",
-    "8474652",
-    "9667130",
-    "8430373",
-    "6020721",
-    "8432130"
-  ],
-  "winnerProducts": [
-    "6033781",
-    "9663477",
-    "9634247"
-  ],
-  "featuredCategories": [
-    "Terrassenüberdachungen",
-    "Terrassenüberdachungen",
-    "Terrassenüberdachungen",
-    "Terrassenüberdachungen",
-    "Terrassenüberdachungen",
-    "Terrassenheizstrahler"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Terrasse & Wege",
-    "featureText": "Herzlich willkommen in deiner Terrassenwelt auf terrawe.de. Ein Ort der Ruhe und der Erholung. Die Terrasse, der Ort, an dem wir uns alle gerne aufhalten. Allerdings kann uns ein kalter Wind oder Niederschlag dieses Erlebnis schnell vermiesen. Damit uns weder Kälte noch Regen unsere Momente schmälern, bieten wir dir ein Sortiment an Terrassenüberdachungen und auch Terrassenheizstrahler an. Rüste dich für die kalten Jahreszeiten zu Top-Preisen.",
-    "index": {
-      "title": "Zubehör für deine Terrasse | terrawe.de",
-      "metaDescription": "Werte deine Terrasse jetzt auf! Schütze dich mit unseren Terrassenüberdachungen und Terrassenheizstrahler vor Wind & Wetter | Terrawe.de - schnell und einfach.",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei TerraWE - Ihrem Experten für Terrassen & Wege",
-            "text": "Herzlich willkommen auf TerraWE, Ihrem Online-Shop für alles rund um die Terrasse und den Weg. Wir bieten Ihnen eine breite Auswahl an Terrassenüberdachungen und Terrassenheizstrahlern, damit Sie Ihre Outdoor-Oase ganzjährig nutzen können. Unsere Produkte zeichnen sich durch hochwertige Materialien, moderne Technik und ein hervorragendes Preis-Leistungs-Verhältnis aus. Stöbern Sie durch unser Sortiment und entdecken Sie, wie Sie Ihre Terrasse zu einem zusätzlichen Wohnraum machen können. Bei Fragen steht Ihnen unser freundlicher Kundenservice jederzeit zur Verfügung."
-          },
-          {
-            "title": "Terrassenüberdachungen",
-            "text": "Entdecken Sie eine große Auswahl an <a href=\"/kategorie/terrassenueberdachungen/\" title=\"Terrassenüberdachungen\">Terrassenüberdachungen</a> bei TerraWe. Wir bieten Terrassenüberdachungen in verschiedenen Größen und Materialien, damit Sie das ganze Jahr über unter Ihrer Terrassenüberdachung entspannen können. Ob Sie eine Terrassenüberdachung aus Aluminium, Holz oder Edelstahl wünschen, wir haben für jeden Bedarf das passende Produkt. Schützen Sie sich vor Regen und Sonne, während Sie im Freien genießen."
-          },
-          {
-            "title": "Terrassenheizstrahler",
-            "text": "Erweitern Sie die Nutzungsdauer Ihrer Terrassen mit <a href=\"/kategorie/terrassenheizstrahler/\" title=\"Terrassenheizstrahler\">Terrassenheizstrahler</a>n von TerraWe. Unsere Terrassenheizstrahler sorgen für wohlige Wärme an kühlen Abenden und lassen Sie auch im Herbst und Frühjahr lange draußen sitzen. Wählen Sie aus einer Vielzahl an Designs und Leistungsstärken, um den perfekten Terrassenheizstrahler für Ihre Bedürfnisse zu finden."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "terrawe.de",
+    "hostname": "https://www.terrawe.de/",
+    "email": "terrawe.de@surrealnetworks.io",
+    "organization": "terrawe.de",
+    "logoText": "Terrawe.de",
+    "title": "Terrassenüberdachung und Heizstrahler",
+    "subline": "Der Online Shop für deine Terrasse",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "2108678",
+        "8474652",
+        "9667130",
+        "8430373",
+        "6020721",
+        "8432130"
+    ],
+    "winnerProducts": [
+        "6033781",
+        "9663477",
+        "9634247"
+    ],
+    "featuredCategories": [
+        "Terrassenüberdachungen",
+        "Terrassenüberdachungen",
+        "Terrassenüberdachungen",
+        "Terrassenüberdachungen",
+        "Terrassenüberdachungen",
+        "Terrassenheizstrahler"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Terrasse & Wege",
+        "featureText": "Herzlich willkommen in deiner Terrassenwelt auf terrawe.de. Ein Ort der Ruhe und der Erholung. Die Terrasse, der Ort, an dem wir uns alle gerne aufhalten. Allerdings kann uns ein kalter Wind oder Niederschlag dieses Erlebnis schnell vermiesen. Damit uns weder Kälte noch Regen unsere Momente schmälern, bieten wir dir ein Sortiment an Terrassenüberdachungen und auch Terrassenheizstrahler an. Rüste dich für die kalten Jahreszeiten zu Top-Preisen.",
+        "index": {
+            "title": "Zubehör für deine Terrasse | terrawe.de",
+            "metaDescription": "Werte deine Terrasse jetzt auf! Schütze dich mit unseren Terrassenüberdachungen und Terrassenheizstrahler vor Wind & Wetter | Terrawe.de - schnell und einfach.",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei TerraWE - Ihrem Experten für Terrassen & Wege",
+                        "text": "Herzlich willkommen auf TerraWE, Ihrem Online-Shop für alles rund um die Terrasse und den Weg. Wir bieten Ihnen eine breite Auswahl an Terrassenüberdachungen und Terrassenheizstrahlern, damit Sie Ihre Outdoor-Oase ganzjährig nutzen können. Unsere Produkte zeichnen sich durch hochwertige Materialien, moderne Technik und ein hervorragendes Preis-Leistungs-Verhältnis aus. Stöbern Sie durch unser Sortiment und entdecken Sie, wie Sie Ihre Terrasse zu einem zusätzlichen Wohnraum machen können. Bei Fragen steht Ihnen unser freundlicher Kundenservice jederzeit zur Verfügung."
+                    },
+                    {
+                        "title": "Terrassenüberdachungen",
+                        "text": "Entdecken Sie eine große Auswahl an <a href=\"/kategorie/terrassenueberdachungen/\" title=\"Terrassenüberdachungen\">Terrassenüberdachungen</a> bei TerraWe. Wir bieten Terrassenüberdachungen in verschiedenen Größen und Materialien, damit Sie das ganze Jahr über unter Ihrer Terrassenüberdachung entspannen können. Ob Sie eine Terrassenüberdachung aus Aluminium, Holz oder Edelstahl wünschen, wir haben für jeden Bedarf das passende Produkt. Schützen Sie sich vor Regen und Sonne, während Sie im Freien genießen."
+                    },
+                    {
+                        "title": "Terrassenheizstrahler",
+                        "text": "Erweitern Sie die Nutzungsdauer Ihrer Terrassen mit <a href=\"/kategorie/terrassenheizstrahler/\" title=\"Terrassenheizstrahler\">Terrassenheizstrahler</a>n von TerraWe. Unsere Terrassenheizstrahler sorgen für wohlige Wärme an kühlen Abenden und lassen Sie auch im Herbst und Frühjahr lange draußen sitzen. Wählen Sie aus einer Vielzahl an Designs und Leistungsstärken, um den perfekten Terrassenheizstrahler für Ihre Bedürfnisse zu finden."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Terrassenüberdachungen und Heizstrahler | Online -Shop",
+            "metaDescription": "In unserem Online Shop bieten wir dir großen Schutz zum kleinen Preis. Mit Terrassenüberdachungen und Terrassenheizstrahler gegen Wind und Wetter.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Terrassenüberdachungen und Heizstrahler | Hersteller",
+            "metaDescription": "Terrassenzubehör zum günstigen Preis von Marken wie Floraworld, VLC, Enders, Suntec, Gutta, Westmann, Skan Holz, Weka, Buschbeck, Gardendreams oder Palram.",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Terrassenüberdachungen und Heizstrahler | Online -Shop",
-      "metaDescription": "In unserem Online Shop bieten wir dir großen Schutz zum kleinen Preis. Mit Terrassenüberdachungen und Terrassenheizstrahler gegen Wind und Wetter.",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Terrassenüberdachungen und Heizstrahler | Hersteller",
-      "metaDescription": "Terrassenzubehör zum günstigen Preis von Marken wie Floraworld, VLC, Enders, Suntec, Gutta, Westmann, Skan Holz, Weka, Buschbeck, Gardendreams oder Palram.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT | terrawe.de",
-    "defaultMetaDescription": "Mit unserer Auswahl an Produkten wie $PRODUKT von unserem Top Hersteller $HERSTELLER können wir dir das beste aus dem Bereich $KATEGORIE bieten.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "6033781",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT | terrawe.de",
+        "defaultMetaDescription": "Mit unserer Auswahl an Produkten wie $PRODUKT von unserem Top Hersteller $HERSTELLER können wir dir das beste aus dem Bereich $KATEGORIE bieten.",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Gardendreams Terrassenüberdachung Professional 500 cm x 350 cm Schwarz Struktur Glas",
-              "text": "<p class=\"justify\">Die Gardendreams Terrassenüberdachung Professional 500 cm x 350 cm Schwarz Struktur Glas (SKU: 6033781, GTIN: 4251858729452) besticht durch ihre exzellente Qualität und einzigartige Optik. Sie ist ideal für den Einsatz im Garten &amp; Freizeitbereich, insbesondere auf Terrassen &amp; Wegen. Die Kategorie Terrassenüberdachungen bietet viele verschiedene Optionen für Ihr Zuhause.</p><p class=\"justify\">Die Professional Edition dieser Terrassenüberdachung besteht aus einer robusten, pulverbeschichteten Aluminiumkonstruktion. Sie hat eine Basis, die für Erweiterungen und Konstruktionen vorbereitet ist und somit Ihren Komfort noch mehr erhöht. Das Gestell ist in elegantem Schwarz gehalten und das Glas verleiht der Überdachung eine moderne und stilvolle Note. Die Gesamtgröße von 500 cm x 350 cm bietet ausreichend Platz zum Entspannen und Genießen der Natur, auch bei schlechtem Wetter.</p><p class=\"justify\">Die High-Resolution Bilder zeigen die Terrassenüberdachung Professional in ihrem Detailreichtum und der hochwertigen Verarbeitung. So erhalten Sie einen optimalen Eindruck von der Optik und Funktionalität dieses Produkts, das Ihre Erwartungen übertreffen wird. Die Kundenzufriedenheit spiegelt sich in einer Bewertung von 4 Sternen wider, basierend auf 92 Kundenrezensionen.</p><p class=\"justify\">Mit der Gardendreams Terrassenüberdachung Professional 500 cm x 350 cm Schwarz Struktur Glas treffen Sie eine hervorragende Wahl für Ihr Zuhause. Der Preis von 4579 Euro ist eine lohnenswerte Investition, wenn Sie Wert auf Qualität, Ästhetik und Funktionalität legen. Schaffen Sie Ihren persönlichen Wohlfühlbereich in Ihrem Garten oder auf Ihrer Terrasse mit dieser exklusiven Terrassenüberdachung von Gardendreams.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "9663477",
-        "seo": {
-          "texts": [
-            {
-              "title": "Gutta Terrassendach Premium Weiß Stegplatten Acryl Bronze 5.100 mm x 3.060 mm",
-              "text": "<p class=\"justify\">Das Gutta Terrassendach Premium Weiß Stegplatten Acryl Bronze 5.100 mm x 3.060 mm (Artikelnummer 9663477) ist eine hochwertige Lösung für alle, die auf der Suche nach einer stilvollen und langlebigen Terrassenüberdachung sind. Die innovative Konstruktion und die erstklassigen Materialien garantieren höchste Qualität und ein ansprechendes Design, das sich perfekt in jeden Garten und jede Terrasse einfügt. Diese Terrassenüberdachung gehört zur Kategorie \"Terrassenüberdachungen\" und ist Teil des umfangreichen Sortiments der Marke Gutta.</p><p class=\"justify\">Das besondere an diesem Produkt ist seine filigrane, aber dennoch solide Rahmenkonstruktion mit nur zwei Trägerpfosten. Die pulverbeschichteten Aluminiumprofile sind korrosionsfrei und dauerhaft attraktiv, wahlweise in Weiß oder Anthrazit erhältlich. Die individuelle Einstellbarkeit der Trägerpfosten und Füße sowie die flexible Dachneigung von 5 bis 20 Grad ermöglichen eine optimale Anpassung an Ihre räumlichen Gegebenheiten. Das Terrassendach ist aus Acryl Stegplatten in der wunderschönen Farbe Bronze gefertigt, welche UV- und hagelbeständig sind.</p><p class=\"justify\">Dieses Terrassendach bietet maximale Flexibilität bei der Dacheindeckung, da alle handelsüblichen 16 mm Stegplatten aus Acryl oder Polycarbonat mit 980 mm Breite verwendet werden können. Die integrierte Regenrinne mit flexiblem Wasserablauf sorgt für einen schnellen Wassertransport, sodass Sie auch bei schlechtem Wetter Ihre Terrasse genießen können. Das Gutta Terrassendach Premium Weiß Stegplatten Acryl Bronze 5.100 mm x 3.060 mm (GTIN 4003412143224) erfüllt höchste Qualitätsansprüche, damit Sie lange Freude daran haben.</p><p class=\"justify\">Ob als Terrassenüberdachung, Carport oder sogar als Pergola oder Freisitz, dieses Premiumprodukt bietet Ihnen die Möglichkeit, Ihre Außenbereiche ganz nach Ihren individuellen Vorstellungen und Bedürfnissen zu gestalten. Lassen Sie sich von dem Gutta Terrassendach Premium Weiß Stegplatten Acryl Bronze 5.100 mm x 3.060 mm inspirieren und erschaffen Sie Ihren persönlichen Lieblingsplatz im Freien.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "9634247",
-        "seo": {
-          "texts": [
-            {
-              "title": "Terrassenüberdachung Genua 541 x 357 cm Aluminium Anthrazit von Skan Holz",
-              "text": "<p class=\"justify\">Die Terrassenüberdachung Genua 541 x 357 cm Aluminium Anthrazit aus dem renommierten Hause Skan Holz ist ein wahrer Hingucker, der modernes Design und Funktionalität vereint. Mit Maßen von 541 x 357 cm bietet diese Überdachung ausreichend Platz und Schutz für Ihren Garten- oder Terrassenbereich. Die hochwertige Konstruktion aus Aluminium, strukturpulverbeschichtet in Anthrazit (DB703), unterstreicht die stabile und robuste Konstruktion.</p><p class=\"justify\">Die Pfosten der Terrassenüberdachung Genua messen 11 x 11 cm und sind vorne abgerundet. Im Lieferumfang sind Pfostenlaschen zum Einbetonieren enthalten, die eine sichere Verbindung zum Untergrund gewährleisten. Die markanten Profillinien verleihen dieser Überdachung ihr modernes Design. Für eine effektive Entwässerung ist eine Regenrinne in der Pfette integriert und der Ablauf kann wahlweise im Pfosten oder außen am Pfosten erfolgen. Des Weiteren ist ein Wandabschlussprofil im Lieferumfang enthalten.</p><p class=\"justify\">Die Dacheindeckung besteht aus 16 mm dicken Polycarbonat-Doppelstegplatten in klarer Ausführung. Diese Platten sind mit einer UV-reflektierenden Schicht versehen, wodurch sie besonders langlebig sind. Die Dacheindeckung wird durch hochwertige Aluminium-Profile mit EPDM-Lippendichtungen befestigt. Bitte beachten Sie, dass Wandbefestigungsmaterialien nicht im Lieferumfang enthalten sind.</p><p class=\"justify\">Die Terrassenüberdachung Genua 541 x 357 cm Aluminium Anthrazit von Skan Holz ist nicht nur optisch ansprechend, sondern auch langlebig und pflegeleicht. Sie eignet sich perfekt, um Ihren Außenbereich aufzuwerten und zu schützen. Mit einer Kombination aus hoher Qualität, modernem Design und Funktionalität ist dies eine großartige Ergänzung für jeden Garten oder Terrasse.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "Günstige $KATEGORIE für deine Terrasse",
-    "defaultMetaDescription": "Schutz vor Wind und Wetter: Wir bieten dir mit unserer Auswahl an $KATEGORIE von unseren Top Marken einen Schutz, der sich sehen lassen kann.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "6033781",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Gardendreams Terrassenüberdachung Professional 500 cm x 350 cm Schwarz Struktur Glas",
+                            "text": "<p class=\"justify\">Die Gardendreams Terrassenüberdachung Professional 500 cm x 350 cm Schwarz Struktur Glas (SKU: 6033781, GTIN: 4251858729452) besticht durch ihre exzellente Qualität und einzigartige Optik. Sie ist ideal für den Einsatz im Garten &amp; Freizeitbereich, insbesondere auf Terrassen &amp; Wegen. Die Kategorie Terrassenüberdachungen bietet viele verschiedene Optionen für Ihr Zuhause.</p><p class=\"justify\">Die Professional Edition dieser Terrassenüberdachung besteht aus einer robusten, pulverbeschichteten Aluminiumkonstruktion. Sie hat eine Basis, die für Erweiterungen und Konstruktionen vorbereitet ist und somit Ihren Komfort noch mehr erhöht. Das Gestell ist in elegantem Schwarz gehalten und das Glas verleiht der Überdachung eine moderne und stilvolle Note. Die Gesamtgröße von 500 cm x 350 cm bietet ausreichend Platz zum Entspannen und Genießen der Natur, auch bei schlechtem Wetter.</p><p class=\"justify\">Die High-Resolution Bilder zeigen die Terrassenüberdachung Professional in ihrem Detailreichtum und der hochwertigen Verarbeitung. So erhalten Sie einen optimalen Eindruck von der Optik und Funktionalität dieses Produkts, das Ihre Erwartungen übertreffen wird. Die Kundenzufriedenheit spiegelt sich in einer Bewertung von 4 Sternen wider, basierend auf 92 Kundenrezensionen.</p><p class=\"justify\">Mit der Gardendreams Terrassenüberdachung Professional 500 cm x 350 cm Schwarz Struktur Glas treffen Sie eine hervorragende Wahl für Ihr Zuhause. Der Preis von 4579 Euro ist eine lohnenswerte Investition, wenn Sie Wert auf Qualität, Ästhetik und Funktionalität legen. Schaffen Sie Ihren persönlichen Wohlfühlbereich in Ihrem Garten oder auf Ihrer Terrasse mit dieser exklusiven Terrassenüberdachung von Gardendreams.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "9663477",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Gutta Terrassendach Premium Weiß Stegplatten Acryl Bronze 5.100 mm x 3.060 mm",
+                            "text": "<p class=\"justify\">Das Gutta Terrassendach Premium Weiß Stegplatten Acryl Bronze 5.100 mm x 3.060 mm (Artikelnummer 9663477) ist eine hochwertige Lösung für alle, die auf der Suche nach einer stilvollen und langlebigen Terrassenüberdachung sind. Die innovative Konstruktion und die erstklassigen Materialien garantieren höchste Qualität und ein ansprechendes Design, das sich perfekt in jeden Garten und jede Terrasse einfügt. Diese Terrassenüberdachung gehört zur Kategorie \"Terrassenüberdachungen\" und ist Teil des umfangreichen Sortiments der Marke Gutta.</p><p class=\"justify\">Das besondere an diesem Produkt ist seine filigrane, aber dennoch solide Rahmenkonstruktion mit nur zwei Trägerpfosten. Die pulverbeschichteten Aluminiumprofile sind korrosionsfrei und dauerhaft attraktiv, wahlweise in Weiß oder Anthrazit erhältlich. Die individuelle Einstellbarkeit der Trägerpfosten und Füße sowie die flexible Dachneigung von 5 bis 20 Grad ermöglichen eine optimale Anpassung an Ihre räumlichen Gegebenheiten. Das Terrassendach ist aus Acryl Stegplatten in der wunderschönen Farbe Bronze gefertigt, welche UV- und hagelbeständig sind.</p><p class=\"justify\">Dieses Terrassendach bietet maximale Flexibilität bei der Dacheindeckung, da alle handelsüblichen 16 mm Stegplatten aus Acryl oder Polycarbonat mit 980 mm Breite verwendet werden können. Die integrierte Regenrinne mit flexiblem Wasserablauf sorgt für einen schnellen Wassertransport, sodass Sie auch bei schlechtem Wetter Ihre Terrasse genießen können. Das Gutta Terrassendach Premium Weiß Stegplatten Acryl Bronze 5.100 mm x 3.060 mm (GTIN 4003412143224) erfüllt höchste Qualitätsansprüche, damit Sie lange Freude daran haben.</p><p class=\"justify\">Ob als Terrassenüberdachung, Carport oder sogar als Pergola oder Freisitz, dieses Premiumprodukt bietet Ihnen die Möglichkeit, Ihre Außenbereiche ganz nach Ihren individuellen Vorstellungen und Bedürfnissen zu gestalten. Lassen Sie sich von dem Gutta Terrassendach Premium Weiß Stegplatten Acryl Bronze 5.100 mm x 3.060 mm inspirieren und erschaffen Sie Ihren persönlichen Lieblingsplatz im Freien.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "9634247",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Terrassenüberdachung Genua 541 x 357 cm Aluminium Anthrazit von Skan Holz",
+                            "text": "<p class=\"justify\">Die Terrassenüberdachung Genua 541 x 357 cm Aluminium Anthrazit aus dem renommierten Hause Skan Holz ist ein wahrer Hingucker, der modernes Design und Funktionalität vereint. Mit Maßen von 541 x 357 cm bietet diese Überdachung ausreichend Platz und Schutz für Ihren Garten- oder Terrassenbereich. Die hochwertige Konstruktion aus Aluminium, strukturpulverbeschichtet in Anthrazit (DB703), unterstreicht die stabile und robuste Konstruktion.</p><p class=\"justify\">Die Pfosten der Terrassenüberdachung Genua messen 11 x 11 cm und sind vorne abgerundet. Im Lieferumfang sind Pfostenlaschen zum Einbetonieren enthalten, die eine sichere Verbindung zum Untergrund gewährleisten. Die markanten Profillinien verleihen dieser Überdachung ihr modernes Design. Für eine effektive Entwässerung ist eine Regenrinne in der Pfette integriert und der Ablauf kann wahlweise im Pfosten oder außen am Pfosten erfolgen. Des Weiteren ist ein Wandabschlussprofil im Lieferumfang enthalten.</p><p class=\"justify\">Die Dacheindeckung besteht aus 16 mm dicken Polycarbonat-Doppelstegplatten in klarer Ausführung. Diese Platten sind mit einer UV-reflektierenden Schicht versehen, wodurch sie besonders langlebig sind. Die Dacheindeckung wird durch hochwertige Aluminium-Profile mit EPDM-Lippendichtungen befestigt. Bitte beachten Sie, dass Wandbefestigungsmaterialien nicht im Lieferumfang enthalten sind.</p><p class=\"justify\">Die Terrassenüberdachung Genua 541 x 357 cm Aluminium Anthrazit von Skan Holz ist nicht nur optisch ansprechend, sondern auch langlebig und pflegeleicht. Sie eignet sich perfekt, um Ihren Außenbereich aufzuwerten und zu schützen. Mit einer Kombination aus hoher Qualität, modernem Design und Funktionalität ist dies eine großartige Ergänzung für jeden Garten oder Terrasse.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "Günstige $KATEGORIE für deine Terrasse",
+        "defaultMetaDescription": "Schutz vor Wind und Wetter: Wir bieten dir mit unserer Auswahl an $KATEGORIE von unseren Top Marken einen Schutz, der sich sehen lassen kann.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "Terrassenzubehör | $HERSTELLER",
+        "defaultMetaDescription": "Die besten Terrassenüberdachungen und Terrassenheizstrahler von $HERSTELLER in deinem günstigen Online-Shop auf terrawe.de.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Terrasse & Wege",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Terrasse & Wege Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Terrasse & Wege Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "Terrassenzubehör | $HERSTELLER",
-    "defaultMetaDescription": "Die besten Terrassenüberdachungen und Terrassenheizstrahler von $HERSTELLER in deinem günstigen Online-Shop auf terrawe.de.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Terrasse & Wege",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Terrasse & Wege Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Terrasse & Wege Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
